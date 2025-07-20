@@ -92,7 +92,7 @@ This project uses the **Logic Apps on Azure** to apply a **chat content moderati
 
 ## 📹 Demo Video
 
-🎥 [[Watch Demo on YouTube](https://drive.google.com/file/d/1qhqJmapj1yOp6Xcaz7ljakhG4cjThM50/view?usp=sharing)
+🎥 [[Watch Demo on YouTube]](https://drive.google.com/file/d/1qhqJmapj1yOp6Xcaz7ljakhG4cjThM50/view?usp=sharing)
 
 ---
 
