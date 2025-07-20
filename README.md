@@ -18,8 +18,8 @@ This project uses the **Logic Apps on Azure** to apply a **chat content moderati
 
 ## 🗺️ Moderation Workflow Flowchart
 
-![Moderation Flowchart](flowchart.png)  
-> *Flowchart outlines how Teams messages are received, processed, analyzed, and lead to notifications.*
+<img width="1365" height="655" alt="Image" src="https://github.com/user-attachments/assets/41584441-2935-4581-b116-088b612e461b" /> 
+*Flowchart outlines how Teams messages are received, processed, analyzed, and lead to notifications.*
 
 ---
 
